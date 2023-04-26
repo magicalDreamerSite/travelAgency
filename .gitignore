@@ -1,0 +1,5 @@
+#environment
+#node dependencies
+node_modules
+#dist
+dist
